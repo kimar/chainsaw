@@ -51,4 +51,4 @@ app.post('/', function (req, res) {
 	// res.send(req.body.deviceFamily);
 })
 
-app.listen(8080);
+app.listen(3100);
