@@ -42,7 +42,6 @@ app.get('/', function (req, res) {
 
 app.post('/', function (req, res) {
 	postCrashlog(req, res);
-	// res.send(req.body.deviceFamily);
 })
 
 app.listen(3100);
