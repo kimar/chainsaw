@@ -1,0 +1,9 @@
+{
+  "name": "chainsaw",
+  "description": "Store mobile Device Crashlogs for iOS and Android",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~3.1.0",
+    "mongojs": "~0.7.2"
+  }
+}
